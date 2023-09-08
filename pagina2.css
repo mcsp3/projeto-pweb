@@ -1,0 +1,38 @@
+@charset "utf-8";
+*{
+    font-family:Arial, Helvetica, sans-serif
+}
+body{
+  background-image: url(https://cdn.shopify.com/s/files/1/1087/6262/articles/glitter-2.jpg?v=1455733938);
+}
+
+main{
+  background-color: rgb(36, 2, 2);
+  width: 1000px;
+  padding: 10px;
+  margin: auto;
+  border-radius: 20px;
+}
+
+h1{
+ 
+  color:rgb(255, 251, 252);
+  text-align: center;
+  
+}
+
+h2{
+  
+  color:rgb(255, 255, 255);
+
+  text-align: center;
+}
+p{
+  text-align: justify;
+}
+
+h5{
+  
+  text-align: center;
+}
+
