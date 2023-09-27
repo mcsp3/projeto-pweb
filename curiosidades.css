@@ -1,39 +1,41 @@
 @charset "utf-8";
-*{
-    font-family:Arial, Helvetica, sans-serif
-}
-body{
-  background-image: url(https://cdn.shopify.com/s/files/1/1087/6262/articles/glitter-2.jpg?v=1455733938);
-}
 
+ body {
+    
+   
+    
+  background-image:  url(alagoas.png);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
 main{
-  background-color: rgb(36, 2, 2);
-  width: 1000px;
-  padding: 10px;
-  margin: auto;
-  border-radius: 20px;
+    background-color: white;
+    width: 900px;
+    height: 4400px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 20px;
 }
-
 h1{
- 
-  color:rgb(255, 251, 252);
-  text-align: center;
-  
+    background-color:hsl(145, 41%, 33%);
+    color: white;
+    text-align: center;
+    font-family:Monolisa;
+    font: size 30px;;
+    
 }
-
 h2{
-  
-  color:rgb(255, 255, 255);
-
-  text-align: center;
+   
+    color: hsl(145, 41%, 33%);
+    font-family: Monolisa;
+    font: size 25px;;
 }
+
 p{
-  text-align: justify;
+    font-family:Arial, Helvetica, sans-serif ;
+    color: #000000;
+    font-size:16px;
+    text-align: justify;
+    
+    margin: 40px;
+
 }
-
-h5{
-  
-  text-align: center;
-}
-
-
