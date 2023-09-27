@@ -1,46 +1,55 @@
 @charset "utf-8";
-*{
-    font-family:Arial, Helvetica, sans-serif
-}
-body{
-  background-image: url(https://cdn.shopify.com/s/files/1/1087/6262/articles/glitter-2.jpg?v=1455733938);
-}
-main{
-background-color: white;
-width: 900px;
-padding: 10px;
-margin: auto;
-border-radius: 20px;
 
-}
-h1{
-  background-color: white;
-  color:rgb(128, 73, 82);
 
-  text-align: center;
-  
-}
+    body{
 
-h2{
-  background-color:white;
-  color: rgb(128, 73, 82);
-  text-align: center;
-}
-p{
-  text-align:justify;
-  font-size: larger;
+      
+        background-image: url(al.png);
 
-}
- video{
-  width: 750px;
-  margin: auto;
-  
+      
 
-}
+    }
+    body
+
+
+
+    main{
+
+
+        background-color: white;
+        width: 900px;
+        height: 4000;
+        padding: 20px;
+        margin: auto;
+       border-radius: 10px;
+
+
+
+    }
+
+
+    h1{ 
+        background-color: green;
+        color: white;
+        
+    }
+
+    p{
+        
+        color: black;
+       font-family: Arial, Helvetica, sans-serif;
+      text-align: justify;
+      
+    }
+    h2{
+        color: brown;
+
+    }
+
+    h3{
+        color: rgb(16, 140, 255);
+    }
 h5{
-  text-align: center;
-  
-}
 
-  
-  
+    color: rgb(30, 209, 30);
+}
